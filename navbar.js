@@ -5,7 +5,7 @@
   var HOME = "index.html";
 
   var LINKS = [
-    { label: "Home", href: "home.html" },
+    { label: "Home", href: "index.html" },
     { label: "Produtos", href: "produtos.html" },
     { label: "Contato", href: "contatos.html" }
   ];
